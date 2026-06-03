@@ -1,5 +1,5 @@
 {
-  "name": "majortom-eg",
+  "name": "majortom-ts",
   "version": "1.0.0",
   "description": "TypeScript implementation of the ESA Major TOM equal-area grid system",
   "type": "module",

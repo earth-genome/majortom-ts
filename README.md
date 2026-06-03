@@ -1,4 +1,4 @@
-# majortom-eg (TypeScript)
+# majortom-ts
 
 A TypeScript implementation of the ESA [Major TOM](https://github.com/ESA-PhiLab/Major-TOM)
 equal-area grid system. This is a port of the
@@ -10,13 +10,13 @@ cross-language reference dataset).
 ## Installation
 
 ```console
-npm install majortom-eg
+npm install majortom-ts
 ```
 
 ## Usage
 
 ```ts
-import { MajorTomGrid } from "majortom-eg";
+import { MajorTomGrid } from "majortom-ts";
 import type { Polygon } from "geojson";
 
 // generate an overlapping grid with cells of 320m square
