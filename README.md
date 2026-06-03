@@ -10,13 +10,13 @@ cross-language reference dataset).
 ## Installation
 
 ```console
-npm install majortom-ts
+npm install @earthgenome/majortom-ts
 ```
 
 ## Usage
 
 ```ts
-import { MajorTomGrid } from "majortom-ts";
+import { MajorTomGrid } from "@earthgenome/majortom-ts";
 import type { Polygon } from "geojson";
 
 // generate an overlapping grid with cells of 320m square
