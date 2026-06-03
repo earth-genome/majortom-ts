@@ -30,6 +30,14 @@
   ],
   "author": "Earth Genome <info@earthgenome.org>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/earth-genome/majortom-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/earth-genome/majortom-ts/issues"
+  },
+  "homepage": "https://github.com/earth-genome/majortom-ts#readme",
   "dependencies": {
     "@turf/boolean-intersects": "^7.2.0",
     "@turf/buffer": "^7.2.0",
