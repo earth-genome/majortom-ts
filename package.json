@@ -1,6 +1,6 @@
 {
   "name": "@earthgenome/majortom-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript implementation of the ESA Major TOM equal-area grid system",
   "type": "module",
   "main": "./dist/index.js",
